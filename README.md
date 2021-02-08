@@ -1,2 +1,2 @@
 # pictureBedForNormalUse
-picture bed for usual use, like hw, diary, note.
+* picture bed for usual use, like hw, blog, note.
